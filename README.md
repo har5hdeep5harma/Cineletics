@@ -1,12 +1,12 @@
 # Cineletics: A Data Analysis Disquisition on the Economics of Cinema
 
-> *"Beyond the glamour of the silver screen lies a matrix of numbers, genres, and trends — waiting to be dissected, deciphered, and demystified through the lens of data."*
+> *"Beyond the glamour of the silver screen lies a matrix of numbers, genres, and trends - waiting to be dissected, deciphered, and demystified through the lens of data."*
 
 ## Project Overview
 
-**Cineletics** is an exploratory data analysis (EDA) project dedicated to unpacking the financial, categorical, and temporal dynamics of films. Leveraging Python's data science stack, this project investigates the interplay between budget, revenue, genres, popularity, and time — revealing the statistical sinews that animate cinematic success.
+**Cineletics** is an exploratory data analysis (EDA) project dedicated to unpacking the financial, categorical, and temporal dynamics of films. Leveraging Python's data science stack, this project investigates the interplay between budget, revenue, genres, popularity, and time - revealing the statistical sinews that animate cinematic success.
 
-This is not merely a superficial inspection of movie metrics — it is a **disquisition**: an elegant, structured examination of data-driven storytelling and fiscal reality.
+This is not merely a superficial inspection of movie metrics - it is a **disquisition**: an elegant, structured examination of data-driven storytelling and fiscal reality.
 
 ## Objectives
 
